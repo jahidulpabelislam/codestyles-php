@@ -1,0 +1,17 @@
+{
+    "name": "jpi/codestyles",
+    "description": "Config files around codestyles for myself",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jahidul Pabel Islam",
+            "email": "me@jahidulpabelislam.com"
+        }
+    ],
+    "keywords": [
+        "codestyles",
+        "codesniffer",
+        "formatting"
+    ]
+}
