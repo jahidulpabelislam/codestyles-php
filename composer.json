@@ -1,6 +1,6 @@
 {
     "name": "jpi/codestyles",
-    "description": "Config files around codestyles for myself",
+    "description": "Personal bits around code styling",
     "license": "MIT",
     "type": "library",
     "authors": [
