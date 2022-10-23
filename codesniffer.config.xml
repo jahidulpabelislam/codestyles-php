@@ -11,4 +11,11 @@
         <exclude name="PSR12.Traits.UseDeclaration" />
         <exclude name="PSR12.Classes.OpeningBraceSpace" />
     </rule>
+
+    <!-- Override the 120 from above rule -->
+    <rule ref="Generic.Files.LineLength">
+        <properties>
+            <property name="lineLimit" value="152" />
+        </properties>
+    </rule>
 </ruleset>
